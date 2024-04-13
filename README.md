@@ -9,15 +9,15 @@
 
 - падацца на дакумент падарожны можна **не раней, чым за месяц** да сканьчэння вашага дзейнага беларускага пашпарту
 
-- падацца на дакумент падарожны **на асобных падставах для беларусаў** (_art. 252а ustawa z dnia 12 grudnia 2013 r. o cudzoziemcach, Dz. U. 2023.519[^1]_ ) **можна толькі да 30 чэрвеня 2024 года** (_калі нешта не зменіцца ў будучыні, падставовая інфармацыя і яе абнаўленні даступны на старонцы Urzędu do Spraw Cudzoziemców_ [_https://www.gov.pl/web/udsc/ulatwienia-dla-obywateli-bialorusi-dotyczace-wydawania-polskich-dokumentow-podrozy-dla-cudzoziemca_](https://www.gov.pl/web/udsc/ulatwienia-dla-obywateli-bialorusi-dotyczace-wydawania-polskich-dokumentow-podrozy-dla-cudzoziemca))
+- падацца на дакумент падарожны **на асобных падставах для беларусаў** (_art. 252а ustawa z dnia 12 grudnia 2013 r. o cudzoziemcach, Dz. U. 2023.519[^1]_ ) **можна толькі да 30 чэрвеня 2024 года** (_калі нешта не зменіцца ў будучыні, падставовая інфармацыя і яе абнаўленні даступны на старонцы Urzędu do Spraw Cudzoziemców[^2]_)
 
 - падацца на падставе art. 252a магчыма толькі, **калі ў вас ёсць хаця ж нейкі побыт** (_па візе - нельга_)
 
-- у выпадку, калі дзеянне art. 252a **не будзе падоўжана для беларусаў пасля 30 чэрвеня 2024 года**, падавацца можна будзе **толькі на падставе агульнага art. 252** (_https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/cudzoziemcy-18053962/art-252: часовы побыт на падставе міжнароднай аховы, часовы побыт па арт. 186 - на падставе гуманітарнай візы, побыт сталы/рэзідэнт, побыт гуманітарны - не блытаць з побытам па гуманітарнай візе_)
+- у выпадку, калі дзеянне art. 252a **не будзе падоўжана для беларусаў пасля 30 чэрвеня 2024 года**, падавацца можна будзе **толькі на падставе агульнага art. 252[^3]** (часовы побыт на падставе міжнароднай аховы, часовы побыт па арт. 186 - на падставе гуманітарнай візы, побыт сталы/рэзідэнт, побыт гуманітарны - не блытаць з побытам па гуманітарнай візе_)
 
 ## Неабходныя дакументы:
 
-- запоўнены унёсак (_актуальную версію лепей за ўсё браць са старонкі Urzędu do Spraw Cudzoziemców_ [_https://www.gov.pl/web/udsc/ulatwienia-dla-obywateli-bialorusi-dotyczace-wydawania-polskich-dokumentow-podrozy-dla-cudzoziemca_](https://www.gov.pl/web/udsc/ulatwienia-dla-obywateli-bialorusi-dotyczace-wydawania-polskich-dokumentow-podrozy-dla-cudzoziemca)_, бо на старонках ужондаў ён не заўжды можа быць актуальны_)
+- запоўнены унёсак (_актуальную версію лепей за ўсё браць са старонкі Urzędu do Spraw Cudzoziemców[^2], бо на старонках ужондаў ён не заўжды можа быць актуальны_)
 
 - 2 актуальных (_не больш за 6 месяцаў_) здымка на дакументы
 
@@ -53,3 +53,5 @@
 
 
 [^1]: [_https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/cudzoziemcy-18053962/art-252-a_](https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/cudzoziemcy-18053962/art-252-a)
+[^2]: [_https://www.gov.pl/web/udsc/ulatwienia-dla-obywateli-bialorusi-dotyczace-wydawania-polskich-dokumentow-podrozy-dla-cudzoziemca_](https://www.gov.pl/web/udsc/ulatwienia-dla-obywateli-bialorusi-dotyczace-wydawania-polskich-dokumentow-podrozy-dla-cudzoziemca)
+[^3]: [_https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/cudzoziemcy-18053962/art-252_](https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/cudzoziemcy-18053962/art-252)
