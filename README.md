@@ -9,7 +9,7 @@
 
 - падацца на дакумент падарожны можна **не раней, чым за месяц** да сканьчэння вашага дзейнага беларускага пашпарту
 
-- падацца на дакумент падарожны **на асобных падставах для беларусаў** (_art. 252а ustawa z dnia 12 grudnia 2013 r. o cudzoziemcach, Dz. U. 2023.519_ [_https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/cudzoziemcy-18053962/art-252-a_](https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/cudzoziemcy-18053962/art-252-a)) **можна толькі да 30 чэрвеня 2024 года** (_калі нешта не зменіцца ў будучыні, падставовая інфармацыя і яе абнаўленні даступны на старонцы Urzędu do Spraw Cudzoziemców_ [_https://www.gov.pl/web/udsc/ulatwienia-dla-obywateli-bialorusi-dotyczace-wydawania-polskich-dokumentow-podrozy-dla-cudzoziemca_](https://www.gov.pl/web/udsc/ulatwienia-dla-obywateli-bialorusi-dotyczace-wydawania-polskich-dokumentow-podrozy-dla-cudzoziemca))
+- падацца на дакумент падарожны **на асобных падставах для беларусаў** (_art. 252а ustawa z dnia 12 grudnia 2013 r. o cudzoziemcach, Dz. U. 2023.519[^1]_ ) **можна толькі да 30 чэрвеня 2024 года** (_калі нешта не зменіцца ў будучыні, падставовая інфармацыя і яе абнаўленні даступны на старонцы Urzędu do Spraw Cudzoziemców_ [_https://www.gov.pl/web/udsc/ulatwienia-dla-obywateli-bialorusi-dotyczace-wydawania-polskich-dokumentow-podrozy-dla-cudzoziemca_](https://www.gov.pl/web/udsc/ulatwienia-dla-obywateli-bialorusi-dotyczace-wydawania-polskich-dokumentow-podrozy-dla-cudzoziemca))
 
 - падацца на падставе art. 252a магчыма толькі, **калі ў вас ёсць хаця ж нейкі побыт** (_па візе - нельга_)
 
@@ -47,3 +47,9 @@
 
 - у раздзеле F подпіс ставіць той, каму **прызначаецца падарожны дакумент** (_у выпадку з непаўнагадовым - ставіць непаўнагадовы і_ **_толькі ён,_** _калі яму_ **_больш за 14 гадоў_**_, калі меньш - застаўляем поле пустым_)
 
+
+### Прыклад запоўненага ўнёска
+[wzor-wniosek.pdf](/wzor-wniosek.pdf)
+
+
+[^1]: [_https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/cudzoziemcy-18053962/art-252-a_](https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/cudzoziemcy-18053962/art-252-a)
